@@ -15,6 +15,15 @@ Please note an AI wrote this Readme TEXT !!
 
 Use the package manager 
 
+## Setup
+
+```
+
+Place the bat files in the folder path "VividITAdminTool\bin\Debug\net7.0-windows\"
+add the following to the desired batch file button in form.cs eg." System.Diagnostics.Process.Start("XXXXXXXXXX.bat");"
+
+```
+
 ## Updates
 
 ```
