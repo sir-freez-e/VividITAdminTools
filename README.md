@@ -26,7 +26,7 @@ Added System tray icon
 Added Image logo and Icon
 
 ```
-
+![Screenshot]\(https://github.com/sir-freez-e/VividITAdminTools/blob/274932e0e4c3c943093b0d5cee3a3c0febde500f/ui.jpg)
 
 ## Contributing
 
